@@ -9,7 +9,7 @@
       
      файл с расширением .rot - содержит информацию о взаимовращениях блоков на интервал 120-0 млн. лет (апт-современность)
       
-     Видеоряд полученной модели доступен по ссылке: https://drive.google.com/file/d/1-K0fpHCj_gJ8uTJKXVhIuuUXjf4_WgaF/view?usp=sharing
+     Видеоряд полученной модели доступен по ссылке: https://drive.google.com/file/d/1-K0fpHCj_gJ8uTJKXVhIuuUXjf4_WgaF/
   
   Само приложение GPlates доступно по ссылке - https://www.gplates.org/download.html
 
